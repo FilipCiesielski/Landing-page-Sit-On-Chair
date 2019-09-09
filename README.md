@@ -1,2 +1,2 @@
-# Warsztat-Sit-On-Chair
-Mój pierwszy warsztat layout strony,html, stylizowanie w css i eventy w js.
+Landing page-Sit-On-Chair
+My first workshop, landing page, tools and technologies used: Html5, Css3, JavaScript
